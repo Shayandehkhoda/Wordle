@@ -3,7 +3,7 @@
 - Clone the repo.
 - Install the requirements by running `pip install -r requirements.txt`.
 - In your terminal, run `export PYTHONPATH=$PYTHONPATH:$(pwd)` to add the current directory to your `PYTHONPATH`.
-- Run `python src/run.py` to start the game.
+- Run `python src/main.py` to start the game.
 - You can change number of tries.
 
 ## Rules
